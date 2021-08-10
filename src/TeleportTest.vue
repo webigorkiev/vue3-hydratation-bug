@@ -1,6 +1,8 @@
 <template>
-    <Teleport to="body">
-    </Teleport>
+    <div>
+        <Teleport to="body">
+        </Teleport>
+    </div>
 </template>
 
 <script>
